@@ -9,7 +9,7 @@ Do not open a public issue. Do not put details in a pull request.
 - Members of the organization: open a Linear issue in the OPS project
   with the `security` label, or contact the DevSecOps lead
   (`@jp-devops-ot`) or the CTO (`@radek-otee`) directly.
-- External reporters: use the contact on <https://otee.io>.
+- External reporters: use the contact on <https://otee.com>.
 
 Include: the repository, the version or commit, the steps to reproduce,
 and the impact you expect. We confirm receipt within two working days.
