@@ -26,6 +26,12 @@ does not apply. Do not delete a section.
 
 -
 
+## Permissions and secrets
+
+<!-- New or changed secrets, IAM roles and policies, Kubernetes RBAC, GitHub permissions or bypass actors. Name each one and why it is needed. "None." if nothing changes. -->
+
+-
+
 ## Out of scope
 
 <!-- Related work that is not in this PR. -->
