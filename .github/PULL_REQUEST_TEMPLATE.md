@@ -32,7 +32,7 @@ does not apply. Do not delete a section.
 
 -
 
-## Out of scope
+## Related Work
 
 <!-- Related work that is not in this PR. -->
 
