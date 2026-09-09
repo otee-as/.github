@@ -14,18 +14,6 @@ does not apply. Do not delete a section.
 
 -
 
-## Definition of Done
-
-<!-- What must be true before this PR is complete. Tick what is done. -->
-
-- [ ]
-
-## Acceptance Criteria
-
-<!-- What a reviewer can check after the merge. Each item names a command or a place to look. -->
-
-- [ ]
-
 ## Risks
 
 <!-- What can go wrong, who it affects, and how to roll back. -->
