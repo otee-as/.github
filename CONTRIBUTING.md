@@ -29,8 +29,8 @@ The reason for each rule is in the linked document.
 
 - The PR template gives the sections. Fill every section. Write `None.`
   rather than delete one.
-- One approval from a person who did not make the last push. Merge with
-  squash. Resolve every review thread.
+- One approval from a person who did not make the last push. Merge with a
+  merge commit. Resolve every review thread.
 - Automation (`otee-release-bot`, `otee-kargo`) and the `devsecops` team can
   bypass the review rules. Every bypass is in the audit log. Use it for an
   incident, not for speed.
