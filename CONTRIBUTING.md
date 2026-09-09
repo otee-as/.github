@@ -19,9 +19,8 @@ The reason for each rule is in the linked document.
 - [Conventional Commits](https://www.conventionalcommits.org/):
   `type(scope): description`. Types: `feat`, `fix`, `docs`, `chore`, `ci`,
   `refactor`, `revert`. A breaking change: `feat(scope)!: ...`.
-- The pull request title is the squash commit. Release tooling reads it. A
-  title that is not a Conventional Commit skips the release, and nothing
-  tells you.
+- Every commit on a pull request is a Conventional Commit. Release tooling
+  reads the commits. commit-lint checks them on the pull request.
 - Commits are signed. The organization requires it on `main`.
 - On a maintenance line, only `fix:` and `revert:` commits.
 
