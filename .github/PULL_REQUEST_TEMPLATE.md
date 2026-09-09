@@ -16,7 +16,13 @@ does not apply. Do not delete a section.
 
 ## Risks
 
-<!-- What can go wrong, who it affects, and how to roll back. -->
+<!-- What can go wrong, and who it affects. -->
+
+-
+
+## Rollback
+
+<!-- How to undo this change: revert and redeploy, restore a value, re-run a job. Name anything that cannot be undone. -->
 
 -
 
