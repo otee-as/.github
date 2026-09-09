@@ -2,7 +2,7 @@
 
 This policy applies to every repository in the otee-as organization.
 
-## Report a vulnerability
+## Report a Vulnerability
 
 Do not open a public issue. Do not put details in a pull request.
 
